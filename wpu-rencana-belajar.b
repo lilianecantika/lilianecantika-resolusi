@@ -2,8 +2,13 @@ RENCANA BELAJAR WPU
 
 - Mapel TJKT
   *PCC
-  *PIC & JARKOM
-- Mapel PAI
+  *PIC 
+   ^ JARKOM
 - Mapel Bhs Indonesia
+  ^ Proposal
+  ^ Cerpen
 - Mapel Bhs Inggris
 - Mapel Matematika
+  ^ Polinomial
+  ^ Lingkaran
+  ^ Trigonometri
