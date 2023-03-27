@@ -4,10 +4,11 @@ RENCANA BELAJAR WPU
   *PCC
   *PIC 
    ^ JARKOM
-- Mapel PAI
 - Mapel Bhs Indonesia
+  ^ Proposal
+  ^ Cerpen
 - Mapel Bhs Inggris
 - Mapel Matematika
   ^ Polinomial
   ^ Lingkaran
-- Mapel PP
+  ^ Trigonometri
