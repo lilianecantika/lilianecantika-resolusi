@@ -7,6 +7,7 @@ RENCANA BELAJAR WPU
 - Mapel Bhs Indonesia
   ^ Proposal
   ^ Karya Ilmiah
+  ^ Cerpen
 - Mapel Bhs Inggris
 - Mapel Matematika
   ^ Polinomial
