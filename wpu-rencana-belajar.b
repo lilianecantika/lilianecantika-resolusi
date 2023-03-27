@@ -3,7 +3,7 @@ RENCANA BELAJAR WPU
 - Mapel TJKT
   *PCC
   *PIC 
-   ^ JARKOM
+   ^ Jarkom
 - Mapel Bhs Indonesia
   ^ Cerpen
   ^ Proposal
@@ -14,3 +14,4 @@ RENCANA BELAJAR WPU
   ^ Trigonometri
   ^ Polinomial
   ^ Lingkaran
+
