@@ -7,7 +7,9 @@ RENCANA BELAJAR WPU
 - Mapel Bhs Indonesia
   ^ Cerpen
   ^ Proposal
+  ^ Drama
 - Mapel Bhs Inggris
+  ^ Argumentative
 - Mapel Matematika
   ^ Trigonometri
   ^ Polinomial
