@@ -6,11 +6,10 @@ RENCANA BELAJAR WPU
    ^ Jarkom
 - Mapel Bhs Indonesia
   ^ Proposal
-  ^ Karya Ilmiah
   ^ Cerpen
 - Mapel Bhs Inggris
 - Mapel Matematika
   ^ Polinomial
   ^ Lingkaran
   ^ Trigonometri
-- Mapel PAI
+
