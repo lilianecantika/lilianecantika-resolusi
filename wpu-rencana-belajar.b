@@ -5,11 +5,13 @@ RENCANA BELAJAR WPU
   *PIC 
    ^ Jarkom
 - Mapel Bhs Indonesia
-  ^ Proposal
   ^ Cerpen
+  ^ Proposal
+  ^ Drama
 - Mapel Bhs Inggris
+  ^ Argumentative
 - Mapel Matematika
+  ^ Trigonometri
   ^ Polinomial
   ^ Lingkaran
-  ^ Trigonometri
 
