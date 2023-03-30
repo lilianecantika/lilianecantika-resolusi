@@ -9,6 +9,7 @@ RENCANA BELAJAR WPU
   ^ Proposal
   ^ Drama
   ^ Karya ilmiah
+  ^ pantun
 - Mapel Bhs Inggris
   ^ Argumentative
 - Mapel Matematika
